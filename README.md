@@ -4,6 +4,7 @@
 This PCB is for driving 6 x IV-11 VFD 7-segment display tubes as a general purpose display using cascaded latching shift registers to control individual segments via whatever microcontroller you wish.   Connectivity is via a 7 pin header.
 
 ![PCB Image](VFDDriver2.png?raw=true "Title")
+![Working Image](VFDtubepic.jpg?raw=true "Title")
 
 ## Inputs
 Power Inputs:
